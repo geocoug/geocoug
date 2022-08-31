@@ -1,6 +1,6 @@
 ![banner](banner.gif)
 
-- I live in Washington <a href="https://wsu.edu"><img src="https://geocoug.com/images/wsu.svg" width="20px" style="margin-top: -10px;"/></a> <img src="https://static.www.nfl.com/t_q-best/league/api/clubs/logos/SEA" width="20px"/> <img src="https://www.mlbstatic.com/team-logos/team-cap-on-dark/136.svg" height="17px" />
+- Washington <a href="https://wsu.edu"><img src="https://geocoug.com/images/wsu.svg" width="20px" style="margin-top: -10px;"/></a> <img src="https://static.www.nfl.com/t_q-best/league/api/clubs/logos/SEA" width="20px"/> <img src="https://www.mlbstatic.com/team-logos/team-cap-on-dark/136.svg" height="17px" />
 
 - Data Manager at <img src="https://www.integral-corp.com/wp-content/uploads/2019/04/Integral_favicon.png" width="17px"> [Integral Consulting](https://www.integral-corp.com/)
 
@@ -15,7 +15,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![R](https://img.shields.io/badge/-R-000?&logo=r)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
