@@ -1,6 +1,4 @@
-![banner](banner.gif)
-
-- Washington <a href="https://wsu.edu"><img src="https://geocoug.com/images/wsu.svg" width="20px" style="margin-top: -10px;"/></a> <img src="https://static.www.nfl.com/t_q-best/league/api/clubs/logos/SEA" width="20px"/> <img src="https://www.mlbstatic.com/team-logos/team-cap-on-dark/136.svg" height="17px" />
+- Washington State <a href="https://wsu.edu"><img src="https://geocoug.com/images/wsu.svg" width="20px" style="margin-top: -10px;"/></a> <img src="https://static.www.nfl.com/t_q-best/league/api/clubs/logos/SEA" width="20px"/> <img src="https://www.mlbstatic.com/team-logos/team-cap-on-dark/136.svg" height="17px" />
 
 - Data Manager at <img src="https://www.integral-corp.com/wp-content/uploads/2019/04/Integral_favicon.png" width="17px"> [Integral Consulting](https://www.integral-corp.com/)
 
