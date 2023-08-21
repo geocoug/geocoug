@@ -2,9 +2,7 @@
 
 - Connect with me on <a href="https://www.linkedin.com/in/c-grant/">![Linkedin](https://img.shields.io/badge/-LinkedIn-0e1116?&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/c-grant/)</a>
 
-- Check out my website 👉 <a href="https://geocoug.com">geocoug.com</a>
-
-- Check out my website: [![](https://img.shields.io/badge/geocoug.com-0e1116)](https://geocoug.com)
+- Check out my website: 👉 [![](https://img.shields.io/badge/geocoug.com-0e1116)](https://geocoug.com)
 
 ### Technologies
 
