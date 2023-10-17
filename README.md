@@ -1,6 +1,6 @@
 - Washington State <img src="https://geocoug.com/images/wsu.svg" width="20px" style="margin-top: -10px;"/> <img src="https://static.www.nfl.com/t_q-best/league/api/clubs/logos/SEA" width="20px"/> <img src="https://www.mlbstatic.com/team-logos/team-cap-on-dark/136.svg" height="17px" /> <img src="https://cms.nhl.bamgrid.com/images/assets/binary/317578370/binary-file/file.svg" height="17px">
-- Connect with me on <a href="https://www.linkedin.com/in/c-grant/">![Linkedin](https://img.shields.io/badge/-LinkedIn-0e1116?&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/c-grant/)</a>
-- Check out my website: 👉 [![](https://img.shields.io/badge/geocoug.com-0e1116)](https://geocoug.com)
+- Connect with me on <a href="https://www.linkedin.com/in/c-grant/">![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white&labelColor=blue)</a>
+- Check out my website: 👉 [![](https://img.shields.io/badge/geocoug.com-123456?style=flat)](https://geocoug.com)
 
 ---
 
@@ -22,7 +22,6 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=232F3E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![Plotly](https://img.shields.io/badge/Plotly-000000?style=flat&logo=plotly&logoColor=white&labelColor=3F4F75)
-![Dash](https://img.shields.io/badge/Dash-000000?style=flat&logo=dash&logoColor=white&labelColor=3F4F75)
 ![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=white&labelColor=092E20)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&labelColor=000000)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter&logoColor=white&labelColor=F37626)
@@ -32,8 +31,3 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white&labelColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white&labelColor=FCC624)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat&logo=apple&logoColor=white&labelColor=999999)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamagistral&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/hamagistral)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geocoug&theme=github_dark&hide_border=true)
