@@ -1,4 +1,4 @@
-- Washington State <img src="https://geocoug.com/images/wsu.svg" width="20px" style="margin-top: -10px;"/> <img src="https://static.www.nfl.com/t_q-best/league/api/clubs/logos/SEA" width="20px"/> <img src="https://www.mlbstatic.com/team-logos/team-cap-on-dark/136.svg" height="17px" /> <img src="https://cms.nhl.bamgrid.com/images/assets/binary/317578370/binary-file/file.svg" height="17px">
+- Washington State <img src="https://geocoug.com/images/wsu.svg" width="20px" style="margin-top: -10px;"/> <img src="https://static.www.nfl.com/t_q-best/league/api/clubs/logos/SEA" width="20px"/> <img src="https://www.mlbstatic.com/team-logos/team-cap-on-dark/136.svg" height="17px" /> <img src="https://assets.nhle.com/logos/nhl/svg/SEA_light.svg" height="17px">
 - Connect with me on <a href="https://www.linkedin.com/in/c-grant/">![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white&labelColor=blue)</a>
 - Check out my website: 👉 [![](https://img.shields.io/badge/geocoug.com-123456?style=flat)](https://geocoug.com)
 
